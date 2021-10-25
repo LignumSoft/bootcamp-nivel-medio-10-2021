@@ -1,4 +1,4 @@
-# LIGNUM BOOTCAMP NIVEL MEDIO 02/2021 #
+# LIGNUM BOOTCAMP NIVEL MEDIO 10/2021 #
 
 ![LignumLogo](https://user-images.githubusercontent.com/15086662/89939428-5734d100-dbee-11ea-87ac-00d0910adaf5.png)
 
@@ -88,7 +88,6 @@ I-2)Crear un apartado para ver eventos anteriores, al igual que con el apartado 
 I-3)En las pantallas donde existan multiples selectores deberan ser dinamicos (ajax). Por ejemplo en evento seleccionariamos pais - provincia - localidad
 
 #### Medio: ####
-
 
 M-1)Selector con sugerencias - Debera recomendar al superusuario dinamicamente los paises-provincias-localidades que comiencen con lo que el haya escrito (Una vez que haya escrito al menos 3 letras)
 
