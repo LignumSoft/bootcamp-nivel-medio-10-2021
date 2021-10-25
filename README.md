@@ -83,7 +83,7 @@ o
 
 I-1-b) Mostrar multiples eventos como lo verias por ejemplo en netflix pero con un maximo de 8 fotos por pantalla, utilizar lazy loading para hacer infinite scrolling. Debe ser responsive (minimamente para pantallas de 320, 375 y 425px)
 
-I-2)Crear un apartado para ver eventos anteriores, al igual que con el apartado E-1 deberas mostrarlo en un carousel o infinite scrolling.
+I-2)Crear un apartado para ver eventos anteriores, al igual que con el apartado I-1 deberas mostrarlo en un carousel o infinite scrolling.
 
 I-3)En las pantallas donde existan multiples selectores deberan ser dinamicos (ajax). Por ejemplo en evento seleccionariamos pais - provincia - localidad
 
@@ -104,7 +104,6 @@ o
 
 A-2-b)El listado de los eventos actualizados como si fuera Netflix (puntos extra por este último).
 
-## Soy Nuevo en esto pero aun asi quiero intentarlo ¿Algun consejo? ##
 ### Criterios a tener en cuenta ###
 
 *El proyecto deberia ser tan modular como sea posible.
@@ -112,6 +111,16 @@ Es decir, las funciones de un Evento deberian estar en EventoController y las de
 
 *El naming de las funciones deberia ser segun funcionalidad y luego el modelo, si el nombre es autodescriptivo todavia mejor.
 Por ejemplo, si tengo una funcion para crear un evento y otra para crear una localidad deberian llamarse crearEvento() y crearLocalidad()
+
+### ¡Es poco probable que logre terminar esto! ###
+No te preocupes por eso e intenta completar los puntos importantes.
+
+Ten en cuenta que todo conocimiento sirve y que no hay un puntaje específico para cada actividad, no hay porque ponerse nervioso, es solo una pequeña muestra de lo que sabemos o aprendimos
+en el bootcamp.
+
+¡Manos a la obra!
+
+## Soy Nuevo en esto pero aun asi quiero intentarlo ¿Algun consejo? ##
 
 ### Consejos ###
 Las aplicaciones se pueden hacer en cualquier orden, pero talvez seguir estos pasos te ayuden.
@@ -142,12 +151,3 @@ El siguiente paso sería poder visualizar los eventos como el usuario que visita
 Ahora crea la pantalla para ver el listado de los eventos pasados.
 
 Por último, afina los detalles (drag & drop de imágenes, cargas dinamicas, estética, etc.).
-
-
-### ¡Es poco probable que logre terminar esto! ###
-No te preocupes por eso e intenta completar los puntos importantes.
-
-Ten en cuenta que todo conocimiento sirve y que no hay un puntaje específico para cada actividad, no hay porque ponerse nervioso, es solo una pequeña muestra de lo que sabemos o aprendimos
-en el bootcamp.
-
-¡Manos a la obra!
