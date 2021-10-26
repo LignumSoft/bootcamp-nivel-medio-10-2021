@@ -98,6 +98,7 @@ M-2)Copy-paste para la carga de imagenes (sin necesidad de cargarla de un archiv
 A-1)Crear un chat de contacto. Sera un FAB que le abra un modal con una leyenda animandolo a hacer sus preguntas (Crear las migraciones pertinentes para guardar estos chats, distinguiendo al usuario-cliente y al superusuario/usuario-soporte)
 
 A-2)Crear un Buscador -del titulo del evento- con sugerencias:
+
 A-2-a)Hacer un endpoint de API que devuelva un JSON y le muestre al usuario-cliente sugerencias de lo que escribió ejemplo: https://darkville.tv/ 
 
 o
