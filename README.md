@@ -22,7 +22,7 @@ A pesar de que las palabras MVC ya no sirven para definir la estructura del proy
 una parte de la estructura de App, Controller es una parte de Http junto a Middleware, request, routes. Views es una parte de Resources...  Las siguientes actividades deben ser realizadas utilizando 
 una estructura de Modelo-Vista-Controlador, un recurso didáctico un poco antiguo que podrían revisar si es que se les escapa algún concepto es este https://styde.net/laravel-5/
 
-## Usted dispondrá de 48 horas para entregar o hacer lo mayor posible de las siguientes tareas. ##
+## Usted dispondrá de 10 dias para entregar o hacer lo mayor posible de las siguientes tareas. ##
 
 
 #### Minimo (Ejemplo) ####
